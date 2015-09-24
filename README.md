@@ -20,3 +20,6 @@ Markdown parser [markdown4j][m4j] is used.
 [md_editor]: http://media.arundhaj.com/projects/markdown-plugin/md-editor.jpg
 [md_preview]: http://media.arundhaj.com/projects/markdown-plugin/md-preview.jpg
 [link]: http://arundhaj.com/projects/markdown-editor-plugin-eclipse.html
+
+<a href="http://with-eclipse.github.io/" target="_blank">
+<img alt="with-Eclipse logo" src="http://with-eclipse.github.io/with-eclipse-0.jpg" /></a>
